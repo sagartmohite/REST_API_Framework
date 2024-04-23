@@ -1,8 +1,8 @@
-package com.thetestingacademy.base;
+package com.learnrestapi.base;
 
-import com.thetestingacademy.actions.AssertActions;
-import com.thetestingacademy.endpoints.APIConstants;
-import com.thetestingacademy.modules.PayloadManager;
+import com.learnrestapi.actions.AssertActions;
+import com.learnrestapi.endpoints.APIConstants;
+import com.learnrestapi.modules.PayloadManager;
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;
@@ -10,7 +10,6 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 
 public class BaseTest {

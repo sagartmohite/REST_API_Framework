@@ -1,8 +1,8 @@
-package com.thetestingacademy.modules;
+package com.learnrestapi.modules;
 
 import com.github.javafaker.Faker;
 import com.google.gson.Gson;
-import com.thetestingacademy.pojos.*;
+import com.learnrestapi.pojos.*;
 
 public class PayloadManager {
 

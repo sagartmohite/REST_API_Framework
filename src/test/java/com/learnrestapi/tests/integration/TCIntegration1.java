@@ -1,13 +1,12 @@
-package com.thetestingacademy.tests.integration;
+package com.learnrestapi.tests.integration;
 
-import com.thetestingacademy.base.BaseTest;
-import com.thetestingacademy.endpoints.APIConstants;
-import com.thetestingacademy.pojos.Booking;
-import com.thetestingacademy.pojos.BookingRespons;
+import com.learnrestapi.base.BaseTest;
+import com.learnrestapi.endpoints.APIConstants;
+import com.learnrestapi.pojos.Booking;
+import com.learnrestapi.pojos.BookingRespons;
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
 import io.restassured.RestAssured;
-import io.restassured.http.ContentType;
 import org.testng.Assert;
 import org.testng.ITestContext;
 import org.testng.annotations.Test;

@@ -1,4 +1,4 @@
-package com.thetestingacademy;
+package com.learnrestapi;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;

@@ -1,4 +1,4 @@
-package com.thetestingacademy.tests.integration;
+package com.learnrestapi.tests.integration;
 
 import org.testng.annotations.Test;
 

@@ -1,4 +1,4 @@
-package com.thetestingacademy.pojos;
+package com.learnrestapi.pojos;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

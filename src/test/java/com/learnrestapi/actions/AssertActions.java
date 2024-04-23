@@ -1,4 +1,4 @@
-package com.thetestingacademy.actions;
+package com.learnrestapi.actions;
 
 import io.restassured.response.Response;
 import static org.testng.Assert.assertEquals;

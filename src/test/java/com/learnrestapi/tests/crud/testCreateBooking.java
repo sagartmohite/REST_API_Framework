@@ -1,14 +1,11 @@
-package com.thetestingacademy.tests.crud;
+package com.learnrestapi.tests.crud;
 
-import com.thetestingacademy.base.BaseTest;
-import com.thetestingacademy.endpoints.APIConstants;
-import com.thetestingacademy.pojos.BookingRespons;
+import com.learnrestapi.base.BaseTest;
+import com.learnrestapi.endpoints.APIConstants;
+import com.learnrestapi.pojos.BookingRespons;
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
 import io.restassured.RestAssured;
-import io.restassured.path.json.JsonPath;
-import io.restassured.response.Response;
-import io.restassured.response.ValidatableResponse;
 import org.testng.annotations.Test;
 import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;

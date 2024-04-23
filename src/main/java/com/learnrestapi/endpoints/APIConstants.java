@@ -1,4 +1,4 @@
-package com.thetestingacademy.endpoints;
+package com.learnrestapi.endpoints;
 
 public class APIConstants {
 
